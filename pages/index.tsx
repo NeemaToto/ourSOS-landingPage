@@ -22,7 +22,7 @@ export default function IndexPage() {
         />
       </div>
       <div>
-
+hi
       </div>
     </div>
   );
