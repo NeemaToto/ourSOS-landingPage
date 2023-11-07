@@ -12,7 +12,7 @@ export function NewsLetter() {
                             Subscribe to the OurSOS <span style={{ color: '#FFD400' }}>Newsletter</span>
                         </Title>
                         <Text size='sm' c="#fff">
-                            Subscribe to our newsletter to be in the know about everything related to OurSOS. You&apos;ll have the inside track on new blog posts and even be the first to know when we launch OurSOS.
+                            {`Subscribe to our newsletter to be in the know about everything related to OurSOS. You'll have the inside track on new blog posts and even be the first to know when we launch OurSOS.`}
                         </Text>
                     
                     </div>
