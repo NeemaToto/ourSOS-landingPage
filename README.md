@@ -12,4 +12,5 @@ Get started with the template by clicking `Use this template` button on the top 
 ```
 npm install --save @lottiefiles/lottie-player
 npm install @mantine/form
+npm i @tabler/icons-react
 ```

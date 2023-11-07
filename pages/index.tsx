@@ -1,29 +1,22 @@
 import { Button, Group } from "@mantine/core";
-import React, { useRef } from "react";
 import styles from 'styles/Home.module.css'
-
+import Animation from 'components/Animation'
+import { Features } from "components/Features";
+import { Footer } from 'components/Footer'
+import { NewsLetter } from 'components/Newsletter'
 
 export default function IndexPage() {
-  const ref = useRef(null);
-  React.useEffect(() => {
-    import("@lottiefiles/lottie-player");
-  });
-
+  
   return (
-    <div>
-      <div>
-        <lottie-player
-          id="firstLottie"
-          ref={ref}
-          autoplay
-          mode="normal"
-          src="animation/introPageAnimation.json"
-          style={{ width: "100vw", height: "100vh" }}
-        />
-      </div>
-      <div>
-hi
-      </div>
+    <div className={styles.container}>
+      <Animation />
+     
+      <Features />
+      
+      <NewsLetter />
+        <Footer/>
+
+      
     </div>
   );
 }
