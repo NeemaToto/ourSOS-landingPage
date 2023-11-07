@@ -17,19 +17,19 @@ import {
     {
       title: 'Translated Emergency Alerts',
       description:
-      'OurSOS Translate is at the heart of our commitment to global safety. With this feature, you\'ll transcend language barriers effortlessly, ensuring emergency notifications that reach you anytime, anywhere, will be in a language you can understand.' ,
+      `OurSOS Translate is at the heart of our commitment to global safety. With this feature, you'll transcend language barriers effortlessly, ensuring emergency notifications that reach you anytime, anywhere, will be in a language you can understand.` ,
       icon: IconBell,
     },
     {
       title: 'Interactive Map',
       description:
-        'Visualizing crisis information is crucial. OurSOS offers an interactive map view that displays crises and dangers in your area. This user-friendly interface helps you understand the proximity of threats and aids in making quick and informed decisions.',
+        `Visualizing crisis information is crucial. OurSOS offers an interactive map view that displays crises and dangers in your area. This user-friendly interface helps you understand the proximity of threats and aids in making quick and informed decisions.`,
       icon: IconWorld,
     },
     {
       title: 'Friends and Family Safety',
       description:
-        'OurSOS doesn\'t stop there. We recognize that your circle of loved ones extends far and wide, beyond just your immediate location. With approximate location data, we can provide you with information about the safety of your family and friends around the world. It\'s our way of ensuring that you\'re always connected to the people who matter most to you.',
+        `OurSOS doesn't stop there. We recognize that your circle of loved ones extends far and wide, beyond just your immediate location. With approximate location data, we can provide you with information about the safety of your family and friends around the world. It's our way of ensuring that you're always connected to the people who matter most to you.`,
       icon: IconHeartHandshake,
     },
   ];
