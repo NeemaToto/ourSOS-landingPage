@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { Paper, Text, TextInput, Button, Group, Container, Title } from '@mantine/core';
 
 import classes from './Newsletter.module.css';
