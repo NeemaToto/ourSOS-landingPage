@@ -45,9 +45,9 @@ import {
           stroke={2}
           color={theme.colors.deepBlue[9]}
         />
-        <Text fz="lg" fw={500} className={classes.cardTitle} mt="md">
+        <Title order={3} fz="lg" fw={500} className={classes.cardTitle} mt="md">
           {feature.title}
-        </Text>
+        </Title>
         
         <Text fz="sm" c="dimmed" mt="sm">
           {feature.description}
@@ -68,7 +68,7 @@ import {
         </Title>
   
         <Text c="dimmed" className={classes.description} ta="center" mt="md">
-          {`It's not just an app; OurSOS is your lifeline in unfamiliar surroundings, offering location-based safety data and the comfort of staying connected with loved ones while you explore the world.`}
+          {`It's not just an app; OurSOS is your lifeline in unfamiliar surroundings, offering location-based safety data and the comfort of staying connected with loved ones while you travel the world.`}
         </Text>
   
         <SimpleGrid cols={{ base: 1, md: 3 }} spacing="xl" mt={50}>

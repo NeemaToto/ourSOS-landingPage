@@ -7,7 +7,7 @@ export default function Animation(){
     });
 
     return(
-        <div>
+        <div role='presentation'>
              <lottie-player
           id="firstLottie"
           ref={ref}

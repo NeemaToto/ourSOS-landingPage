@@ -1,12 +1,7 @@
-# Mantine Next Template
 
-Get started with the template by clicking `Use this template` button on the top of the page.
+# OurSOS Landing Page - Anxious Travelers
 
-[Documentation](https://mantine.dev/guides/next/)
-
-# This is a landing page for OurSOS - Anxious Travelers
-
-## Uses Mantine UI
+## Uses [Mantine UI](https://mantine.dev)
 
 ## Installations
 ```

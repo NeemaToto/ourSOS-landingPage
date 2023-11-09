@@ -1,5 +1,8 @@
 import { createTheme } from "@mantine/core";
 
+import {Inter} from 'next/font/google'  
+const inter = Inter({subsets: ['latin']})
+
 export const theme = createTheme({
   primaryColor: 'deepBlue',
   colors: {
@@ -15,5 +18,8 @@ export const theme = createTheme({
     '#1c69c4',
     '#005aad'
   ]
-  }
+  },
+  fontFamily: 'Noto Sans, sans-serif',
+        fontFamilyMonospace: 'Noto Sans, sans-serif',
+        headings: { fontFamily: 'Noto Sans, sans-serif' },
   });
