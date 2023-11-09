@@ -56,7 +56,7 @@ import {
     ));
   
     return (
-      <Container style={{ marginTop: '8rem'}} size="lg" py="xl">
+      <Container style={{ marginTop: '2rem'}} size="lg" py="xl">
         <Group justify="center">
           <Badge style={{ color:'#005AAD', backgroundColor: '#FFD400'}}variant="filled" size="lg">
             Travel Safety Certified

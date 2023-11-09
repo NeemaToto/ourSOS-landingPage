@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }: any) {
         />
          <meta name="description" content="Learn more about OurSOS, a world wide emergency news alert translation app!" />
          <meta name="keywords" content="Emergency alerts while traveling, Travel alerts, Location-based safety, Emergency notifications translated" />
-        <link rel="shortcut icon" href="public/favicon.ico" />
+        <link rel="shortcut icon" href="/favicon.ico" />
 
       </Head>
       <Component {...pageProps} />

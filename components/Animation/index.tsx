@@ -14,7 +14,8 @@ export default function Animation(){
           autoplay
           mode="normal"
           src="animation/introPageAnimation.json"
-          style={{ width: "100vw", height: "100vh" }}
+          resizeMode='cover'
+          style={{ width: '100vw' }}
         />
         </div>
     )
